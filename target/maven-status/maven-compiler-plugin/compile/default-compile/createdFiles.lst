@@ -1,0 +1,8 @@
+vista\frmMenuPrincipal$1.class
+controlador\exceptions\PreexistingEntityException.class
+controlador\exceptions\NonexistentEntityException.class
+modelo\Tablapapeleria.class
+controlador\exceptions\IllegalOrphanException.class
+controlador\TablapapeleriaJpaController.class
+vista\frmMenuPrincipal.class
+modelo\Tablapapeleria_.class
